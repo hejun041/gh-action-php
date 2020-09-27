@@ -1,8 +1,8 @@
 FROM debian:stretch
 
 LABEL version="0.2.0"
-LABEL repository="https://github.com/franzliedke/gh-action-php"
-LABEL homepage="https://github.com/franzliedke/gh-action-php"
+LABEL repository="https://github.com/hejun041/gh-action-php"
+LABEL homepage="https://github.com/hejun041/gh-action-php"
 LABEL maintainer="Franz Liedke <franz@develophp.org>"
 
 LABEL com.github.actions.name="PHP Runner"
